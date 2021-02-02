@@ -1,26 +1,17 @@
-![AIcrowd-Logo](https://raw.githubusercontent.com/AIcrowd/AIcrowd/master/app/assets/images/misc/aicrowd-horizontal.png)
+# NeurIPS 2020 Flatland challenge solution
 
-# Flatland Challenge Starter Kit
+## Description
+This repository contains the multi-agent reinforcement learning framework solution used for our solution to the NeurIPS 2020 Flatland Challenge.
 
-**[Follow these instructions to submit your solutions!](http://flatland.aicrowd.com/getting-started/first-submission.html)**
+## Key Files
+- `ACNET4.py` - Defines network architecture. 
+- `NewAgentInitObs.py` - Defines the decentralized observation of each agent. 
+- `DRLMAPF_A3C_RNN.py` - The main file which contains the entire training code, worker classes and training parameters.
 
+## Authors
 
-![flatland](https://i.imgur.com/0rnbSLY.gif)
+[Mehul Damani](damanimehul24@gmail.com)
 
-Main links
----
+[Zhiyao Luo](luozhiyao933@126.com)
 
-* [Flatland documentation](https://flatland.aicrowd.com/)
-* [NeurIPS 2020 Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/)
-
-Communication
----
-
-* [Discord Channel](https://discord.com/invite/hCR3CZG)
-* [Discussion Forum](https://discourse.aicrowd.com/c/neurips-2020-flatland-challenge)
-* [Issue Tracker](https://gitlab.aicrowd.com/flatland/flatland/issues/)
-
-Author
----
-
-- **[Sharada Mohanty](https://twitter.com/MeMohanty)**
+[Guillaume Sartoretti](guillaume.sartoretti@gmail.com)
